@@ -1,16 +1,22 @@
-## Hi there 👋
+## Algorithmic Trading · High-Frequency Trading · Market Making
 
-<!--
-**AlexeyLong/AlexeyLong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/AlexeyLong)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AlexeyLong)
+[![Sponsors](https://img.shields.io/badge/Sponsor-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/AlexeyLong)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 
-Here are some ideas to get you started:
+Develop low-latency trading systems, algorithmic strategies, and execution infrastructure for electronic markets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+- Algorithmic Trading
+- High-Frequency Trading
+- Algorithmic Market Making
+- Quantitative Research
+- Low-Latency Systems
+- Market Data and Execution
+- Risk Management and Hedging
+
+## Technology
+
+C++ · Python · Networking · Concurrency · Distributed Systems
