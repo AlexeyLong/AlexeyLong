@@ -1,4 +1,4 @@
-## Democratizing Market Making with open source software
+## Don't Just Trade It
 
 [![X](https://img.shields.io/badge/exTwitter-555555?style=flat-square&logo=x&logoColor=white)](https://x.com/Alexey_Long)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AlexeyLong)
